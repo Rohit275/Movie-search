@@ -17,3 +17,11 @@
     color: #32a852;
     border: 2px solid  #32a852;
 }
+
+img {
+    border-radius: 20px;
+}
+
+.image {
+    padding-top: 20px;
+}
